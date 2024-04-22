@@ -3,7 +3,7 @@
 > [!WARNING]  
 > This is a research project and hasn't been audited. Use in production at your own risk.
 
-Circuit for proving the correct encryption under BFV fully homomorphic encryption scheme. Note that this can be also generalized to any RLWE-based algorithms. Full write available here -> https://hackmd.io/@gaussian/r1W98Kqqa.
+Circuit for proving the correct encryption under BFV fully homomorphic encryption scheme. Note that this can be also generalized to any RLWE-based algorithms. Paper -> https://eprint.iacr.org/2024/594.
 
 ### Generate Parameters
 
